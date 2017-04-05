@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Google.OrTools.Local": "5.0.3919",
+    "GeoJSON.Net": "0.1.49"
+  },
+
+  "frameworks": {
+    "net46": {
+
+    }
+  }
+}

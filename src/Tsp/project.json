@@ -1,0 +1,23 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "GoogleMapsServices": "1.0.0",
+    "Google.OrTools.Local": "5.0.3919",
+    "Newtonsoft.Json": "9.0.1",
+    "Microsoft.Extensions.Configuration.UserSecrets": "1.1.0",
+    "Microsoft.Extensions.Configuration": "1.1.0",
+    "Microsoft.AspNetCore.Http.Abstractions": "1.1.0"
+  },
+  "tools": {
+    "Microsoft.Extensions.SecretManager.Tools": "1.1.0-preview4-final"
+  },
+
+  "frameworks": {
+    "net46": {
+    }
+  }
+}
