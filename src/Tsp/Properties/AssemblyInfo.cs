@@ -18,4 +18,3 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("83eee4d8-b05d-44f2-aa2a-bbae6fd86d16")]
-[assembly: UserSecretsId("aspnet-RoutingDemos")]
