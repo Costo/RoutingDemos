@@ -1,20 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26114.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02C1A5B7-7D19-4A1A-A509-028E6516EC1A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{232B34C6-3D6C-49C4-9031-C090CB66B0F6}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsp", "src\Tsp\Tsp.csproj", "{83EEE4D8-B05D-44F2-AA2A-BBAE6FD86D16}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Tsp", "src\Tsp\Tsp.xproj", "{83EEE4D8-B05D-44F2-AA2A-BBAE6FD86D16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapsServices", "src\GoogleMapsServices\GoogleMapsServices.csproj", "{E6DA95CC-38E9-487B-9F59-C8757401BFB5}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GoogleMapsServices", "src\GoogleMapsServices\GoogleMapsServices.xproj", "{E6DA95CC-38E9-487B-9F59-C8757401BFB5}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Delivery", "src\Delivery\Delivery.xproj", "{DBA602CF-F8B3-4F08-9B9A-66A90AEB3F22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery", "src\Delivery\Delivery.csproj", "{DBA602CF-F8B3-4F08-9B9A-66A90AEB3F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
